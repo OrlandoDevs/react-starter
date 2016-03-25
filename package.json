@@ -4,6 +4,7 @@
   "description": "React Starter Kit for the Orlando Devs React Hackathon!",
   "main": "src/index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "test": "mocha"
   },
   "repository": {
