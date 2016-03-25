@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server",
+    "build": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "test": "mocha"
   },
   "repository": {
