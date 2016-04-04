@@ -1,4 +1,4 @@
-# react-starter
+# react-starter :goat:
 
 Hey, Orlando Devs! This will probably save you hours of setup time for starting a brand new shiny React project. Follow these steps and you'll be up and running in no time:
 
