@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/OrlandoDevs/react-starter#readme",
   "dependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.4",
